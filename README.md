@@ -7,6 +7,7 @@
 
 ## Pinned :
 - ⚡[Neural Machine Translation](https://github.com/akkinasrikar/Neural-Machine-Translation)
+- ⚡[AI Virtual Mouse](https://github.com/akkinasrikar/AI-Virtual-Mouse)
 - ⚡[Face Mask Detection](https://github.com/akkinasrikar/Face-Mask-Detection)
 - ⚡[Deep Dream Generator](https://github.com/akkinasrikar/Deep-dream-generator)
 - ⚡[Browser Based ML and DL Apps](https://github.com/akkinasrikar/Web-browser-based-machine-learning-and-deep-learning-applications)
