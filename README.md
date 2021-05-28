@@ -1,6 +1,6 @@
 # Hi, I'm 👋 [Srikar Akkina](https://akkinasrikar.github.io) :computer:
 
-## 🔗Find me around : 
+## Find me around : 
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-srikarakkina-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/srikarakkina)
 
