@@ -1,15 +1,39 @@
 # Hi, I'm 👋 [Srikar Akkina](https://akkinasrikar.github.io) :computer:
 
-## 🔗Connect With Me
+## 🔗Find me around : 
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-srikarakkina-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/srikarakkina)
 
-## :zap: Github Stats
+
+## Pinned :
+- ⚡[Neural Machine Translation](https://github.com/akkinasrikar/Neural-Machine-Translation)
+- ⚡[Face Mask Detection](https://github.com/akkinasrikar/Face-Mask-Detection)
+- ⚡[Deep Dream Generator](https://github.com/akkinasrikar/Deep-dream-generator)
+- ⚡[Browser Based ML and DL Apps](https://github.com/akkinasrikar/Web-browser-based-machine-learning-and-deep-learning-applications)
+- ⚡[Leet Code Problems And Solutions](https://github.com/akkinasrikar/Leet-code-problems)
+
+## Workout Tutorials :
+- ⚡[Machine Learning With R](https://github.com/akkinasrikar/Machine-Learning-with-R)
+- ⚡[Machine Learning With Python](https://github.com/akkinasrikar/machine-learning)
+- ⚡[Deep Learning](https://github.com/akkinasrikar/Deep-Learning)
+- ⚡[Algo Visualization](https://github.com/akkinasrikar/visualization-of-algorithms-with-processing)
+- ⚡[Pyspark](https://github.com/akkinasrikar/Spark-and-Python-for-Big-Data-with-PySpark)
+- ⚡[Django](https://github.com/akkinasrikar/Django-framework)
+- ⚡[Flask](https://github.com/akkinasrikar/Flask)
+
+## Reference Materials :
+- ⚡[ML-University](https://github.com/akkinasrikar/ML-University)
+- ⚡[DeepLearning.ai Andrew NG Slides](https://github.com/akkinasrikar/Deeplearning.ai-Andrew-NG-Slides)
+- ⚡[Awesome Computer Vision](https://github.com/akkinasrikar/awesome-computer-vision)
+- ⚡[Deep Learning AI Summary](https://github.com/akkinasrikar/DeepLearning.ai-Summary)
+- ⚡[500 AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/akkinasrikar/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
+## :zap: Github Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkinasrikar&theme=cobalt&langs_count=10&layout=compact) 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akkinasrikar&theme=calm&show_icons=true&count_private=true)
 
-## :trophy: Github Awards
+## :trophy: Github Awards :
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkinasrikar&label=Profile%20views&color=0e75b6&style=flat" alt="akkinasrikar" /> </p>
 <p align="left"> 
