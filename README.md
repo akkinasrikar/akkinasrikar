@@ -4,7 +4,6 @@
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-srikarakkina-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/srikarakkina)
 
-
 ## Pinned :
 - ⚡[Neural Machine Translation](https://github.com/akkinasrikar/Neural-Machine-Translation)
 - ⚡[AI Virtual Mouse](https://github.com/akkinasrikar/AI-Virtual-Mouse)
@@ -42,7 +41,9 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=akkinasrikar&theme=chalk&margin-w=15" alt="akkinasrikar" />
 	</a> 
 </p>
- 
+
+![Metrics](https://metrics.lecoq.io/akkinasrikar)
+
  <hr>
 
 ![my github activity graph](https://activity-graph.herokuapp.com/graph?username=akkinasrikar&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
