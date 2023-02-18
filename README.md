@@ -23,7 +23,7 @@
 - ⚡[Deep Learning AI Summary](https://github.com/akkinasrikar/DeepLearning.ai-Summary)
 - ⚡[500 AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/akkinasrikar/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
-## Find me around : 
+## Find me around: 
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-srikarakkina-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/srikarakkina)
 
