@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srikar Akkina</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself and give you a sneak peek into what I'm all about.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akkinasrikar&label=Profile%20views&color=0e75b6&style=flat" alt="akkinasrikar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akkinasrikar" alt="akkinasrikar" /></a> </p>
-
 - 🔭 I’m currently working on [Ecommerce Cart BackEnd](https://github.com/akkinasrikar/Golang-Ecommerce-Cart)
 
 - 🌱 I’m currently learning **Golang,MicroServices,BackEnd**
@@ -16,6 +12,10 @@
 - 📫 How to reach me **akkinasrikar@gmail.com**
 
 - ⚡ Fun fact **When I'm not busy coding 🍀 and crafting 🍃 software solutions, you can often find me immersed in the captivating worlds of anime 😁**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akkinasrikar&label=Profile%20views&color=0e75b6&style=flat" alt="akkinasrikar" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akkinasrikar" alt="akkinasrikar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
