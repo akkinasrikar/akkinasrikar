@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akkina Sairamsrikar</h1>
+<h1 align="center">Hi 👋, I'm Srikar Akkina</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself and give you a sneak peek into what I'm all about.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkinasrikar&label=Profile%20views&color=0e75b6&style=flat" alt="akkinasrikar" /> </p>
