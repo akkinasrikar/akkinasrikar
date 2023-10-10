@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srikar Akkina</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself and give you a sneak peek into what I'm all about.</h3>
 
-- 🔭 I’m currently working on [Ecommerce Cart BackEnd](https://github.com/akkinasrikar/Golang-Ecommerce-Cart)
+- 🔭 I’m currently working on [Event Driven Chat Application](https://github.com/akkinasrikar/Event-Driven-Chat-Application-Pub-Sub)
 
 - 🌱 I’m currently learning **Golang,MicroServices,BackEnd**
 
